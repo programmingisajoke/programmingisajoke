@@ -24,4 +24,8 @@
 
 ## My Blogs
 <!-- BLOG-POST-LIST:START -->
+- [A Brief Introduction to Flutter and Dart for Novices](https://dev.to/programmingisajoke/a-brief-introduction-to-flutter-and-dart-for-novices-40jl)
+- [My Dream Desk Setup, that I don&#39;t have &lpar;As a Non-Millionaire&rpar;](https://dev.to/programmingisajoke/my-dream-desk-setup-that-i-dont-have-kna)
+- [50 Days of Web Dev](https://dev.to/programmingisajoke/50-days-of-web-dev-6f6)
+- [How I setup a new machine for development](https://dev.to/programmingisajoke/how-i-setup-a-new-machine-for-development-17ma)
 <!-- BLOG-POST-LIST:END -->
