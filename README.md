@@ -1,5 +1,8 @@
 <h1 align="center">Programming is a Joke</h1>
 <p align="center">Drinking coffee, eating domino's pizza and writing useless lines of code for a stupid machine is my job.</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="100"/>
+</div>
 
 ## About Me:
 
