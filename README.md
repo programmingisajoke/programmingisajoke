@@ -11,7 +11,7 @@
 - 👯 I"m looking to collaborate on a Flutter project
 - 🤔 I"m looking for help with Flutter and Data Structures
 - 💬 Ask me about Python and Flutter
-- 📫 How to reach me: Discord
+- 📫 How to reach me: [Discord](https://discord.gg/CqbavexBG5)
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I have been coding for 2 yrs
 
