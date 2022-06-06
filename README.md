@@ -22,7 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown     52 mins         ██████████████████▓░░░░░░   74.19 %
+YAML         18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
