@@ -38,3 +38,5 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:END -->
 
 ## 📉See My Contribution grph
+
+![snake gif](https://github.com/programmingisajoke/programmingisajoke/blob/output/github-contribution-grid-snake.gif)
