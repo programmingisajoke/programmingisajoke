@@ -2,7 +2,16 @@
   <img src="images/Programming is a Joke.gif" alt="">
 
 <h2 align=center>🧑‍💻Mi Tech Stack</h2>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,dart,flutter,github" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,vscode,bash,react,nodejs,py" />
+  </a>
+</p>
 
 <h2 align=center>👨About Me</h2>
 
@@ -19,7 +28,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingisajoke&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingisajoke&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=programmingisajoke&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=programmingisajoke&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 
