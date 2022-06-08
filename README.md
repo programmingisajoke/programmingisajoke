@@ -12,7 +12,7 @@
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I have been coding for 2 yrs
 
-<h2 align=center>📊My Stats</h2>
+<h2 align=center>🐍My Stats</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingisajoke&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingisajoke&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
