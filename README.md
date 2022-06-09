@@ -1,6 +1,14 @@
+<h1 align=center>Programming is a Joke</h1>
+<h2 align=center>Drinking coffee, eating domino's pizza and writing useless lines of code for a stupid machine is my job.</h2>
+<div align=center>
 
-  <img src="images/Programming is a Joke.gif" alt="">
+![alt-text](https://img.shields.io/youtube/channel/subscribers/UCD9mivEHi0-5ZPqdUkon-FA?style=for-the-badge)
+![alt-text](https://img.shields.io/discord/974931731893338112?style=for-the-badge)
+![alt-text](https://img.shields.io/github/followers/programmingisajoke?style=for-the-badge)
 
+
+
+</div>
 <h2 align=center>🧑‍💻Mi Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,3 +64,10 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 
 ![snake gif](https://raw.githubusercontent.com/programmingisajoke/programmingisajoke/output/github-contribution-grid-snake.gif)
+
+<h2 align=center>Thanks for viewing my github page. Adios.</h2>
+<div align=center>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
+</div>
