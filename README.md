@@ -1,5 +1,5 @@
 <h1 align=center>Programming is a Joke</h1>
-<h2 align=center>Drinking coffee, eating domino's pizza and writing useless lines of code for a stupid machine is my job.</h2>
+<p align=center>Drinking coffee, eating domino's pizza and writing useless lines of code for a stupid machine is my job.</p>
 <div align=center>
 
 ![alt-text](https://img.shields.io/youtube/channel/subscribers/UCD9mivEHi0-5ZPqdUkon-FA?style=for-the-badge)
