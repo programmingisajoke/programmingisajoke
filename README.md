@@ -69,6 +69,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <h2 align=center>Thanks for viewing my github page. Adios.</h2>
 <div align=center>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=programmingisajoke.visitor-badge)
 
 </div>
